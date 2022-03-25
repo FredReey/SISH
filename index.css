@@ -1,0 +1,65 @@
+body { 
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(15, 15, 196);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.tabela {
+   text-align:  center;
+   width: 100%;
+   border-radius: 5px;
+   border-width: 1px;
+   border-style: solid;
+   background-color: white;
+}
+
+.tabela2 {
+  text-align:  center;
+  width: 90%;
+  border-radius: 5px;
+  border-width: 1px;
+  border-style: solid;
+  background-color: white;
+}
+
+input{
+  width: 62px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.tamanho {
+  margin-top: 50px;
+  padding-left: 60px;
+  padding-right: 5%;
+}
+
+.tamanho2 {
+  margin-top: 50px;
+  padding-left: 150px;
+ }
+
+ #data {
+   width: 116px;
+   
+ }
+
+ th, td {
+  border: 1px solid #ccc;
+ }
+ 
+ .caixa {
+ width: 30px;
+  
+}
